@@ -1,0 +1,5 @@
+export const ADD_ELEMENT = "ADD_NEW_ELEMEMT"
+export const CREATE_NEW_DATASET = "CREATE_NEW_DATASET"
+export const GET_DATASET = "GET_DATASET"
+export const DATA_LOADING = "DATA_LOADING"
+export const DATA_UPDATING = "DATA_UPDATING"
